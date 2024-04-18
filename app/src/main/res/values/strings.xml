@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomImageLoading</string>
+    <string name="unsplash_image">unsplash image</string>
+</resources>
